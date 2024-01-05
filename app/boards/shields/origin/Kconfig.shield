@@ -1,0 +1,5 @@
+config SHIELD_ORIGIN_LEFT
+    def_bool $(shields_list_contains,origin_left)
+
+config SHIELD_ORIGIN_RIGHT
+    def_bool $(shields_list_contains,origin_right)
