@@ -1,4 +1,4 @@
-if SHIELD_ORIGIN_LEFT
+if SHIELD_ORIGIN_RIGHT
 
 config ZMK_KEYBOARD_NAME
     default "Origin"
